@@ -152,7 +152,7 @@ Langkah menjalankan program:
 .
 ├── README.md
 ├── paddydataset.csv
-└── Tubes_ML_Paddy_AdaBoost.ipynb
+└── Tugas Besar Pembelajaran Mesin Kelompok 4.ipynb
 ```
 
 Keterangan:
