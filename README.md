@@ -159,7 +159,7 @@ Keterangan:
 
 1. `README.md` berisi dokumentasi project.
 2. `paddydataset.csv` berisi dataset yang digunakan.
-3. `Tubes_ML_Paddy_AdaBoost.ipynb` berisi program utama machine learning.
+3. `Tugas Besar Pembelajaran Mesin Kelompok 4.ipynb` berisi program utama machine learning.
 
 ## Kesimpulan
 
