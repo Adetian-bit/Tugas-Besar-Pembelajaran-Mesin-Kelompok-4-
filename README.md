@@ -1,4 +1,4 @@
-# Klasifikasi Hasil Panen Padi Menggunakan Metode Ensemble Learning AdaBoost Berbasis Decision Tree
+# Klasifikasi Hasil Panen Padi Menggunakan Metode Ensemble Learning AdaBoost Classifier
 
 ## Tugas Besar Machine Learning
 
