@@ -176,14 +176,14 @@ Langkah menjalankan program:
 .
 ├── README.md
 ├── paddydataset.csv
-└── Tugas Besar Pembelajaran Mesin Kelompok 4.ipynb
+└── Tugas Besar Pembelajaran Mesin Kelompok 4 Fiks.ipynb
 ```
 
 Keterangan:
 
 1. `README.md` berisi dokumentasi project.
 2. `paddydataset.csv` berisi dataset padi dari India yang digunakan dalam project.
-3. `Tugas Besar Pembelajaran Mesin Kelompok 4.ipynb` berisi program utama machine learning.
+3. `Tugas Besar Pembelajaran Mesin Kelompok 4 Fiks.ipynb` berisi program utama machine learning.
 
 ## Kesimpulan
 
